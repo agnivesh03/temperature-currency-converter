@@ -34,7 +34,7 @@ int main()
     float USD_QAR;
 
     
-    printf("Welcome User");
+    printf("Welcome User\n");
     printf("Temperature and Currency Converter\n");
     printf("Enter the category you want to make Conversions :\n");
     printf("T for temperature conversions\n");
